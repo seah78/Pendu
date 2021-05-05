@@ -1,0 +1,14 @@
+Une séquence possible de l'application:
+- menu d'accueil:
+	1/ seconnecter
+	2/ commencer une partie
+	3/ reprendre une partie
+	4/ consulter son palmarès de résultats
+	5/ consulter le classement
+
+- Menu de connexion
+- retour sur le menu d'accueil
+
+Une seconde séquence possible de l'application:
+- menu d'accueil
+- Demande de commencer une partie. si l'utilisateur n'est pas connecté -> se connecter
