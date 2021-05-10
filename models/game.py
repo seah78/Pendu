@@ -1,27 +1,38 @@
+"""Docstring."""
+
+
 class HangmanGame:
-	pass
+    """Docstring."""
+
 
 class Game:
+    """Docstring."""
 
-	def __init__(self):
-		self.ongoing = None
-		self.n_propositions = None
-		self.user = None
+    def __init__(self):
+        self.ongoing = None
+        self.n_propositions = None
+        self.user = None
 
-	def save(self):
-		pass
+    def save(self):
+        """D"""
+        pass
 
-	def start(self):
-		pass
+    def start(self):
+        """D"""
+        pass
 
-	def restart(self):
-		pass
+    def restart(self):
+        """D"""
+        pass
 
-	def give_up(self):
-		pass
+    def give_up(self):
+        """D"""
+        pass
 
-	def is_active(self):
-		pass
+    def is_activate(self):
+        """D"""
+        pass
 
-	def is_won(self):
-		pass
+    def is_won(self):
+        """D"""
+        pass

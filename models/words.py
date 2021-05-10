@@ -1,17 +1,18 @@
-#! /usr/bin/env python3
-# coding: utf-8
+"""Docstring."""
+
 
 class SecretWord:
-	
-	def __init__(self):
-		self.length = None
-		self.n_hidden_letter = None
-		self.n_visible_letters = None
+    """Docstring."""
 
-	def propose_letter(self, letter):
+    def __init__(self):
+        self.length = None
+        self.n_hidden_letters = None
+        self.n_visible_letters = None
 
-		pass
+    def propose(self, letter):
+        """Docstring."""
+        pass
 
-	def is_found(self):
-
-		pass
+    def is_found(self):
+        """Docstring."""
+        pass

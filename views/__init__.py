@@ -1,6 +1,3 @@
-#! /usr/bin/env python3
-# coding: utf-8
-
 class HomeMenuView:
     def __init__(self, menu):
         self.menu = menu

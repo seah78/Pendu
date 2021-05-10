@@ -1,6 +1,7 @@
-#! /usr/bin/env python3
-# coding: utf-8
+"""Docstring."""
+
 
 class Result:
+    """Docstring."""
+
     pass
-    

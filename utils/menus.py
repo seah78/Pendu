@@ -1,6 +1,3 @@
-#! /usr/bin/env python3
-# coding: utf-8
-
 class MenuEntry:
     def __init__(self, option, handler):
         self.option = option
