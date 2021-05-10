@@ -59,7 +59,7 @@ def recup_nom_utilisateur():
         return nom_utilisateur
 
 def recup_lettre():
-"""Cette fonction récupère une lettre saisie par
+    """Cette fonction récupère une lettre saisie par
     l'utilisateur. Si la chaîne récupérée n'est pas une lettre,
     on appelle récursivement la fonction jusqu'à obtenir une lettre"""
 

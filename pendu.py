@@ -42,7 +42,7 @@ while continuer_partie != 'n':
 
     # A-t-on trouvé le mot ou nos chances sont-elles épuisées ?
     if mot_a_trouver==mot_trouve:
-    print("Félicitations ! Vous avez trouvé le mot {0}.".format(mot_a_trouver))
+        print("Félicitations ! Vous avez trouvé le mot {0}.".format(mot_a_trouver))
     else:
         print("PENDU !!! Vous avez perdu.")
 
